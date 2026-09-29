@@ -1,0 +1,4 @@
+[functions.analyze-crop]
+verify_jwt = true
+[functions.send-report]
+verify_jwt = true
